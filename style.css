@@ -5,6 +5,10 @@ body{
   text-align: center;
   text-size: 300%;
 }
+body h1{
+  text-size: 256px;
+  font-family: verdana, sans-serif;
+}
 .paixao{
   text-size: larger;
   text-align: center;
