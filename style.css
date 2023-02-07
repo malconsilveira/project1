@@ -3,9 +3,11 @@ body{
   color: white;
   background: black;
   text-align: center;
+  text-size: 300%;
 }
 .paixao{
   text-size: larger;
   color: red;
-  background: #252525;
+  background: #151515;
+  width: 300px;
 }
