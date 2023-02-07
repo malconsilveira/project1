@@ -11,4 +11,6 @@ body{
   color: red;
   background: #151515;
   width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
