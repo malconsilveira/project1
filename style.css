@@ -6,6 +6,6 @@ body{
 }
 .paixao{
   text-size: larger;
-  color: red;
+  font-color: red;
   background: #252525;
 }
