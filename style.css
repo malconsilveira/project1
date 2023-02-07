@@ -43,3 +43,8 @@ a.paixao{
   text-align:center;
   font-size: 92px;
 }
+.frase{
+  text-align:left;
+  font-size: 50px;
+  padding:20px;
+}
