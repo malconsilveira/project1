@@ -4,8 +4,8 @@ body{
   background: black;
   text-align: center;
 }
-p.paixao{
+.paixao{
   text-size: larger;
-  font-color: red;
+  color: red;
   background: #252525;
 }
