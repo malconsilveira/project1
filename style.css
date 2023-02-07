@@ -5,8 +5,8 @@ body{
   text-align: center;
   text-size: 300%;
 }
-h1{
-  text-size: 18em;
+.titulo{
+  text-size: 40em;
   font-family: verdana, sans-serif;
 }
 .paixao{
