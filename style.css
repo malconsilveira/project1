@@ -33,5 +33,9 @@ a.paixao{
 }
 .idiomas{
   text-align:center;
-  font-size: 128px;
+  font-size: 70px;
+}
+.escolhaidioma{
+  text-align:center;
+  font-size: 92px;
 }
