@@ -8,6 +8,7 @@ body{
 .paixao{
   text-size: larger;
   text-align: center;
+  align: center;
   color: red;
   background: #151515;
   width: 300px;
