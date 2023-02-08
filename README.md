@@ -1,5 +1,5 @@
 # project1
 
-Meu primeiro projeto em andamento.
+Meu primeiro projeto.
 
-My first project in progress.
+My first project.
