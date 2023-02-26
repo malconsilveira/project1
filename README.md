@@ -1,5 +1,8 @@
 # project1
 
-Meu primeiro projeto.
+## Português: 
+Meu primeiro projeto, é como um playground pra mim.
 
-My first project.
+
+## English
+My first project, it's like a playground for me.
