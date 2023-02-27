@@ -50,6 +50,7 @@ a.paixao{
 }
 
 .miniflag{
-  padding: 18px, 8px, 0px, 0px;
+  margin-right: 10px;
+  margin-up: 10px;
   background-color: gray;
 }
