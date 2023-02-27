@@ -50,5 +50,9 @@ a.paixao{
 }
 
 .miniflag{
-  height: 10px;
+  height: 1em;
+}
+
+.autor`{
+   font-size: 25px;
 }
